@@ -2,9 +2,9 @@
 # EasySave
 
 
-EasySave is software for creating save works.
+EasySave is a software for creating save works.
 
-It is possible to run one or all of them, to encrypt the files or not.
+It is possible to run one or all of them, to encrypt files or not.
 It is also possible to choose a work type (complete or differential).
 
 #### The 1.X versions are the console application interfaces.
@@ -12,6 +12,7 @@ It is also possible to choose a work type (complete or differential).
 #### Versions from 2.0 are the WPF GUIs.
 
 The project is based on the MVVM model.
+The project supports French and English.
 
 For each release, source code and UML diagrams are available on GitHub.
 ## How to Execute ?

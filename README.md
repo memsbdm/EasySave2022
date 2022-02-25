@@ -6,6 +6,7 @@ EasySave is a software for creating save works.
 
 It is possible to run one or all of them, to encrypt files or not.
 It is also possible to choose a work type (complete or differential).
+The application is executing all works in parallel with threads
 
 #### The 1.X versions are the console application interfaces.
 
@@ -31,7 +32,14 @@ Mehmet BADEM & Tahsin YILMAZ (a.k.a. Mems & Boony)
 
 ## Versions Notes
 
-#### V2.0 (LTS)
+
+#### V3.0 (LTS)
+
+Add of multithreading
+Add of prioritary extensions
+
+
+#### V2.0
 
 Update to WPF.
 
